@@ -1,0 +1,30 @@
+{
+  "name": "sass_course",
+  "version": "1.0.0",
+  "description": "Projeto referente ao curso de Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoleandro/cd-sass-course.git"
+  },
+  "keywords": [
+    "Sass",
+    "conhecimento",
+    "digital",
+    "curso"
+  ],
+  "author": "Leandro Vitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoleandro/cd-sass-course/issues"
+  },
+  "homepage": "https://github.com/vitoleandro/cd-sass-course#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0",
+    "http-server": "^0.9.0"
+  }
+}
